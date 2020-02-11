@@ -1,0 +1,14 @@
+{
+  "name": "ejemplonode",
+  "version": "1.0.0",
+  "description": "\"EJEMPLO PAQUETES\"",
+  "main": "\"app.js\"",
+  "scripts": {
+    "test": "MIT"
+  },
+  "author": "ALEJA",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
